@@ -1,4 +1,4 @@
-##Title: Wecolme to Gunnu Parinandi's homepage
+Title: Wecolme to Gunnu Parinandi's homepage
 
 
 ## Welcome to GitHub Pages
